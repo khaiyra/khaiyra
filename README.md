@@ -7,7 +7,7 @@ I am a dedicated data analyst with a passion for uncovering insights and a few m
 - 📝 I'm also a skilled technical writer, sharing my knowledge through articles, tutorials, and guides related to data analysis, machine learning, and data science.       
 - 🔗 As a community manager, I foster collaboration, engage with tech enthusiasts, and lead discussions to promote knowledge sharing and growth especially women inclusicity in tech. 
 - 🌟 I'm an active contributor to open-source data analysis and documentation projects.
-- 📫 Connect with me: Let's collaborate, share insights, and learn from each other. You can find me on Twitter [@_khaiyraa].
+- 📫 Connect with me: Let's collaborate, share insights, and learn from each other. You can find me on X @_khaiyraa.
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: An ambidexter
   
