@@ -8,7 +8,6 @@ I am a dedicated data analyst with a passion for uncovering insights and a few m
 - 🔗 As a community manager, I foster collaboration, engage with tech enthusiasts, and lead discussions to promote knowledge sharing and growth especially women inclusicity in tech. 
 - 🌟 I'm an active contributor to open-source data analysis and documentation projects.
 - 📫 Connect with me: Let's collaborate, share insights, and learn from each other. You can find me on X @_khaiyraa.
-- 😄 Pronouns: She/Her 
 - ⚡ Fun fact: An ambidexter
   
 --> Feel free to explore my data projects and reach out if you have any questions or collaboration ideas.
